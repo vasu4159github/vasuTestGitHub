@@ -130,6 +130,9 @@
 		join node n1 on n1.nid=nre.child_nid and n1.type='multichoice' WHERE n.type='quiz' and n.nid=".$quiz_id." order by nre.weight asc");
 	}
 	*/
-	
+	/*************************git test here******************************/
+	function feature1(){
+		//some code
+	}
 	
 ?>	
